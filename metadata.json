@@ -1,0 +1,6 @@
+{
+  "name": "كهربائي وسباك الجبيل",
+  "description": "أفضل خدمات الكهرباء والسباكة في الجبيل على مدار 24 ساعة - صيانة فورية، كشف أعطال، تمديدات، وتأسيس بأيدي فنيين محترفين وبأحدث الأجهزة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
