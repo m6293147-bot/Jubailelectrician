@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jubailelectrician.pages.dev/sitemap.xml
